@@ -1,0 +1,6 @@
+path: /content/dataset/datasets/RFT
+train: images/train
+val: images/val
+
+nc: 8
+names: ['bottle','grass','branch','milk-box','plastic-bag','plastic-garbage','ball','leaf']
